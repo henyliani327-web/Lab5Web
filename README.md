@@ -6,6 +6,7 @@
 
 ##  Pengenalan JavaScript
 File:Lab5_Javasript.html
+
 Menampilkan alert, document.write, dan console.log.
 ```
 <script>
